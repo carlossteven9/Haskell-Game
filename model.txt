@@ -1,0 +1,41 @@
+**Game menu** 
+lifes : # of lifes
+choose a category: 
+1- multiplicatoion
+2- Combination 
+3- Permutation
+4- Power 
+5- back
+
+**In each game** 
+lifes: # of lifes
+-Category-
+what do you want to do? 
+1- Learn how to?
+2- Begin with the game 
+3- back
+
+**Learn how to**
+-Example of an excercise solved 
+-this will be done with files 
+ type any number to go back _(Takes you to "In each menu game" Menu)
+
+
+** Begin the game **
+lifes: # of lifes
+what is the **category** of **random number ** with ** another random number**
+type your answer_ 
+
+** after the answer **
+**If it is correct **
+  lifes: # of lifes
+  Yes, that is correct, you are a potential genious
+  1- See how to solve it(Takes you to "Learn how to" menu)
+  2- Continue in the same Category ( Takes you to "Begin the game" Menu)
+  3- Choose another Category (Takes you to "choose a catergory" Menu)
+**If it is wrong** 
+  lifes = # of lifes -1
+  I'm sorry bud, that's not the answer. Do you want to: 
+  1- See how to solve it(Takes you to "Learn how to" menu
+  2- Continue in the same Category ( Takes you to "Begin the game" Menu)
+  3- Choose another Category (Takes you to "choose a catergory" Menu)
